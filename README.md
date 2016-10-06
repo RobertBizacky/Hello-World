@@ -2,4 +2,5 @@
 
 First repository
 
-I'm Croatian
+Hello, My name is Robert and I'm Croatian.
+My stress affects my happines level
